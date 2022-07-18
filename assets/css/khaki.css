@@ -104,6 +104,17 @@
   Base
 
  -------------------------------------------------------------------*/
+
+.connectbutton {
+    background: #00000010;
+    box-shadow: 0px 1px 10px #17b2ff;
+    color: #000000;
+    border-radius: 14px;
+    padding: 5px 12px;
+    font-size: large;
+    font-weight: 200;
+  }
+
 body {
     color: #3b3b3b;
     background-color: #1c1c1c;
